@@ -1,0 +1,17 @@
+Buchprojekt: Gehversuche mit git (github).
+
+Organisation der Projekts:
+
+storyline.txt
+	Überblick über den Verlauf der Story
+	das wird sich laufend entwickeln
+
+characters.txt
+	Samlung und Entwicklung der Personen
+	und ihrere Eigenheiten
+	
+places.txt
+		Schauplätze der Geschichte
+		
+orgstuff.txt
+	Organisatorisches - keine Ahnung was hier noch kommt.
