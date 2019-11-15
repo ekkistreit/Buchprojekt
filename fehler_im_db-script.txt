@@ -1,0 +1,2 @@
+Franz war frustriert. Den ganzen Vormittag hatte er an dem Startup-Script für die Datenbank in einem Projekt seines Kunden gearbetet, und er war keinen Schritt weitergekommen. Das Ding lief permanent auf Fehler, die logisch betrachtet nicht hätten auftreten dürfen. So allmählich lief ihm die Zeit davon.
+
